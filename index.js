@@ -6,7 +6,7 @@ function changeColor() {
     document.getElementById("three").style.background = colors[random];
 };
 
-function changeColor() {
+function changeColor2() {
     let random = Math.floor(Math.random() * colors.length);
     document.getElementById("four").style.background = colors[random];
 };
